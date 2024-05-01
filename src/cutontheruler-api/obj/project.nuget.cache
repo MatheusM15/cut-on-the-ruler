@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DrpqpBEzD3t+6Zp0yaoqibmwU7rmS9ajBru0aFVC/nf8LRa3ic3bd2VBtTJgLSU4t4ycgej4eT9Y4zdS9G9cow==",
+  "success": true,
+  "projectFilePath": "D:\\cutontheruler\\cutontheruler\\src\\cutontheruler-api\\cutontheruler-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
