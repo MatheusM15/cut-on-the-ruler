@@ -1,0 +1,12 @@
+D:\cutontheruler\cutontheruler\cutontheruler-application\bin\Debug\net8.0\cutontheruler-application.deps.json
+D:\cutontheruler\cutontheruler\cutontheruler-application\bin\Debug\net8.0\cutontheruler-application.dll
+D:\cutontheruler\cutontheruler\cutontheruler-application\bin\Debug\net8.0\cutontheruler-application.pdb
+D:\cutontheruler\cutontheruler\cutontheruler-application\obj\Debug\net8.0\cutontheruler-application.GeneratedMSBuildEditorConfig.editorconfig
+D:\cutontheruler\cutontheruler\cutontheruler-application\obj\Debug\net8.0\cutontheruler-application.AssemblyInfoInputs.cache
+D:\cutontheruler\cutontheruler\cutontheruler-application\obj\Debug\net8.0\cutontheruler-application.AssemblyInfo.cs
+D:\cutontheruler\cutontheruler\cutontheruler-application\obj\Debug\net8.0\cutontheruler-application.csproj.CoreCompileInputs.cache
+D:\cutontheruler\cutontheruler\cutontheruler-application\obj\Debug\net8.0\cutontheruler-application.sourcelink.json
+D:\cutontheruler\cutontheruler\cutontheruler-application\obj\Debug\net8.0\cutontheruler-application.dll
+D:\cutontheruler\cutontheruler\cutontheruler-application\obj\Debug\net8.0\refint\cutontheruler-application.dll
+D:\cutontheruler\cutontheruler\cutontheruler-application\obj\Debug\net8.0\cutontheruler-application.pdb
+D:\cutontheruler\cutontheruler\cutontheruler-application\obj\Debug\net8.0\ref\cutontheruler-application.dll

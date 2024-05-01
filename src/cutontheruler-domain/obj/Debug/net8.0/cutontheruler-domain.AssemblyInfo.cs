@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cutontheruler-domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe057ac3c1ff3ce208d8bdad86ced09819f94eb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("cutontheruler-domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cutontheruler-domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
