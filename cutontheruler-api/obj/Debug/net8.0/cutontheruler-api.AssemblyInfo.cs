@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cutontheruler-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5473467242351384c43f6b10fc3defb0074dc8ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74f3fb515cde03e19d414015b34a24573aef3cd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("cutontheruler-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cutontheruler-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
