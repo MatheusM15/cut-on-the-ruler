@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 logs
 /logs/
 /logs/*
@@ -8,3 +9,10 @@ vendor/
 vendor/*
 /vendor/*
 .vs/*
+=======
+.vs/cutontheruler/FileContentIndex/684f5c7c-04d1-4a28-a4bf-196868858bf7.vsidx
+.vs/cutontheruler/FileContentIndex/9e0b47b1-1ad0-4124-b5ef-52ff3d5ec415.vsidx
+.vs/cutontheruler/FileContentIndex/e47cb5b6-a14c-49a4-99c2-e6e0ff84b5ee.vsidx
+.vs/cutontheruler/FileContentIndex/39f0a71e-4ee6-4090-997a-4b39e573f577.vsidx
+.vs/cutontheruler/FileContentIndex/71c8d06a-7e61-4d13-b63a-94fa6313ff40.vsidx
+>>>>>>> main
