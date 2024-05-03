@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "D:\\cutontheruler\\cutontheruler\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5FBEFE0B-E24A-4770-8FD7-349E2D8599C2}|cutontheruler-api\\cutontheruler-api.csproj|d:\\cutontheruler\\cutontheruler\\cutontheruler-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FBEFE0B-E24A-4770-8FD7-349E2D8599C2}|cutontheruler-api\\cutontheruler-api.csproj|solutionrelative:cutontheruler-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72289F5-F8BB-44F3-952D-3C7DAFC35DE2}|src\\cutontheruler-infra\\cutontheruler-infra.csproj|d:\\cutontheruler\\cutontheruler\\src\\cutontheruler-infra\\migrations\\20240501211745_iniital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72289F5-F8BB-44F3-952D-3C7DAFC35DE2}|src\\cutontheruler-infra\\cutontheruler-infra.csproj|solutionrelative:src\\cutontheruler-infra\\migrations\\20240501211745_iniital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBEFE0B-E24A-4770-8FD7-349E2D8599C2}|cutontheruler-api\\cutontheruler-api.csproj|d:\\cutontheruler\\cutontheruler\\cutontheruler-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FBEFE0B-E24A-4770-8FD7-349E2D8599C2}|cutontheruler-api\\cutontheruler-api.csproj|solutionrelative:cutontheruler-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B72289F5-F8BB-44F3-952D-3C7DAFC35DE2}|src\\cutontheruler-infra\\cutontheruler-infra.csproj|d:\\cutontheruler\\cutontheruler\\src\\cutontheruler-infra\\context\\cutontherulercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B72289F5-F8BB-44F3-952D-3C7DAFC35DE2}|src\\cutontheruler-infra\\cutontheruler-infra.csproj|solutionrelative:src\\cutontheruler-infra\\context\\cutontherulercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7F1C08-5904-4712-A04B-29568D47103A}|cutontheruler-application\\cutontheruler-application.csproj|d:\\cutontheruler\\cutontheruler\\cutontheruler-application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D7F1C08-5904-4712-A04B-29568D47103A}|cutontheruler-application\\cutontheruler-application.csproj|solutionrelative:cutontheruler-application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FBEFE0B-E24A-4770-8FD7-349E2D8599C2}|cutontheruler-api\\cutontheruler-api.csproj|d:\\cutontheruler\\cutontheruler\\cutontheruler-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBEFE0B-E24A-4770-8FD7-349E2D8599C2}|cutontheruler-api\\cutontheruler-api.csproj|solutionrelative:cutontheruler-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3803EA8B-34E0-4F0F-81BF-4FF1EFF1A2F5}|src\\cutontheruler-domain\\cutontheruler-domain.csproj|d:\\cutontheruler\\cutontheruler\\src\\cutontheruler-domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3803EA8B-34E0-4F0F-81BF-4FF1EFF1A2F5}|src\\cutontheruler-domain\\cutontheruler-domain.csproj|solutionrelative:src\\cutontheruler-domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B72289F5-F8BB-44F3-952D-3C7DAFC35DE2}|src\\cutontheruler-infra\\cutontheruler-infra.csproj|d:\\cutontheruler\\cutontheruler\\src\\cutontheruler-infra\\context\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72289F5-F8BB-44F3-952D-3C7DAFC35DE2}|src\\cutontheruler-infra\\cutontheruler-infra.csproj|solutionrelative:src\\cutontheruler-infra\\context\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72289F5-F8BB-44F3-952D-3C7DAFC35DE2}|src\\cutontheruler-infra\\cutontheruler-infra.csproj|d:\\cutontheruler\\cutontheruler\\src\\cutontheruler-infra\\context\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72289F5-F8BB-44F3-952D-3C7DAFC35DE2}|src\\cutontheruler-infra\\cutontheruler-infra.csproj|solutionrelative:src\\cutontheruler-infra\\context\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72289F5-F8BB-44F3-952D-3C7DAFC35DE2}|src\\cutontheruler-infra\\cutontheruler-infra.csproj|d:\\cutontheruler\\cutontheruler\\src\\cutontheruler-infra\\context\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72289F5-F8BB-44F3-952D-3C7DAFC35DE2}|src\\cutontheruler-infra\\cutontheruler-infra.csproj|solutionrelative:src\\cutontheruler-infra\\context\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +54,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CutOnTheRulerContext.cs",
-              "DocumentMoniker": "D:\\cutontheruler\\cutontheruler\\src\\cutontheruler-infra\\context\\CutOnTheRulerContext.cs",
-              "RelativeDocumentMoniker": "src\\cutontheruler-infra\\context\\CutOnTheRulerContext.cs",
-              "ToolTip": "D:\\cutontheruler\\cutontheruler\\src\\cutontheruler-infra\\context\\CutOnTheRulerContext.cs",
-              "RelativeToolTip": "src\\cutontheruler-infra\\context\\CutOnTheRulerContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "20240501211745_iniital.cs",
+              "DocumentMoniker": "D:\\cutontheruler\\cutontheruler\\src\\cutontheruler-infra\\Migrations\\20240501211745_iniital.cs",
+              "RelativeDocumentMoniker": "src\\cutontheruler-infra\\Migrations\\20240501211745_iniital.cs",
+              "ToolTip": "D:\\cutontheruler\\cutontheruler\\src\\cutontheruler-infra\\Migrations\\20240501211745_iniital.cs",
+              "RelativeToolTip": "src\\cutontheruler-infra\\Migrations\\20240501211745_iniital.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T22:52:12.651Z",
+              "WhenOpened": "2024-05-01T21:17:45.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\cutontheruler\\cutontheruler\\cutontheruler-application\\Class1.cs",
-              "RelativeDocumentMoniker": "cutontheruler-application\\Class1.cs",
-              "ToolTip": "D:\\cutontheruler\\cutontheruler\\cutontheruler-application\\Class1.cs",
-              "RelativeToolTip": "cutontheruler-application\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T22:46:41.477Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\cutontheruler\\cutontheruler\\cutontheruler-api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "cutontheruler-api\\appsettings.Development.json",
+              "ToolTip": "D:\\cutontheruler\\cutontheruler\\cutontheruler-api\\appsettings.Development.json",
+              "RelativeToolTip": "cutontheruler-api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T21:09:51.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\cutontheruler\\cutontheruler\\src\\cutontheruler-domain\\Class1.cs",
-              "RelativeDocumentMoniker": "src\\cutontheruler-domain\\Class1.cs",
-              "ToolTip": "D:\\cutontheruler\\cutontheruler\\src\\cutontheruler-domain\\Class1.cs",
-              "RelativeToolTip": "src\\cutontheruler-domain\\Class1.cs",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\cutontheruler\\cutontheruler\\cutontheruler-api\\appsettings.json",
+              "RelativeDocumentMoniker": "cutontheruler-api\\appsettings.json",
+              "ToolTip": "D:\\cutontheruler\\cutontheruler\\cutontheruler-api\\appsettings.json",
+              "RelativeToolTip": "cutontheruler-api\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T21:09:50.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cutontheruler\\cutontheruler\\cutontheruler-api\\Program.cs",
+              "RelativeDocumentMoniker": "cutontheruler-api\\Program.cs",
+              "ToolTip": "D:\\cutontheruler\\cutontheruler\\cutontheruler-api\\Program.cs",
+              "RelativeToolTip": "cutontheruler-api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T22:46:10.509Z",
+              "WhenOpened": "2024-05-01T21:05:56.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "D:\\cutontheruler\\cutontheruler\\src\\cutontheruler-infra\\context\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "src\\cutontheruler-infra\\context\\AggregateRoot.cs",
+              "ToolTip": "D:\\cutontheruler\\cutontheruler\\src\\cutontheruler-infra\\context\\AggregateRoot.cs",
+              "RelativeToolTip": "src\\cutontheruler-infra\\context\\AggregateRoot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:00:06.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "D:\\cutontheruler\\cutontheruler\\src\\cutontheruler-infra\\context\\Schedule.cs",
+              "RelativeDocumentMoniker": "src\\cutontheruler-infra\\context\\Schedule.cs",
+              "ToolTip": "D:\\cutontheruler\\cutontheruler\\src\\cutontheruler-infra\\context\\Schedule.cs",
+              "RelativeToolTip": "src\\cutontheruler-infra\\context\\Schedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:58:56.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAggregateRoot.cs",
+              "DocumentMoniker": "D:\\cutontheruler\\cutontheruler\\src\\cutontheruler-infra\\context\\IAggregateRoot.cs",
+              "RelativeDocumentMoniker": "src\\cutontheruler-infra\\context\\IAggregateRoot.cs",
+              "ToolTip": "D:\\cutontheruler\\cutontheruler\\src\\cutontheruler-infra\\context\\IAggregateRoot.cs",
+              "RelativeToolTip": "src\\cutontheruler-infra\\context\\IAggregateRoot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:59:46.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CutOnTheRulerContext.cs",
+              "DocumentMoniker": "D:\\cutontheruler\\cutontheruler\\src\\cutontheruler-infra\\context\\CutOnTheRulerContext.cs",
+              "RelativeDocumentMoniker": "src\\cutontheruler-infra\\context\\CutOnTheRulerContext.cs",
+              "ToolTip": "D:\\cutontheruler\\cutontheruler\\src\\cutontheruler-infra\\context\\CutOnTheRulerContext.cs",
+              "RelativeToolTip": "src\\cutontheruler-infra\\context\\CutOnTheRulerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:52:12.651Z",
               "EditorCaption": ""
             }
           ]

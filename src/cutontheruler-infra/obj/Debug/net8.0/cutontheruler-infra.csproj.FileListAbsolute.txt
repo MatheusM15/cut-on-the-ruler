@@ -1,0 +1,15 @@
+D:\cutontheruler\cutontheruler\src\cutontheruler-infra\bin\Debug\net8.0\cutontheruler-infra.deps.json
+D:\cutontheruler\cutontheruler\src\cutontheruler-infra\bin\Debug\net8.0\cutontheruler-infra.runtimeconfig.json
+D:\cutontheruler\cutontheruler\src\cutontheruler-infra\bin\Debug\net8.0\cutontheruler-infra.dll
+D:\cutontheruler\cutontheruler\src\cutontheruler-infra\bin\Debug\net8.0\cutontheruler-infra.pdb
+D:\cutontheruler\cutontheruler\src\cutontheruler-infra\obj\Debug\net8.0\cutontheruler-infra.csproj.AssemblyReference.cache
+D:\cutontheruler\cutontheruler\src\cutontheruler-infra\obj\Debug\net8.0\cutontheruler-infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\cutontheruler\cutontheruler\src\cutontheruler-infra\obj\Debug\net8.0\cutontheruler-infra.AssemblyInfoInputs.cache
+D:\cutontheruler\cutontheruler\src\cutontheruler-infra\obj\Debug\net8.0\cutontheruler-infra.AssemblyInfo.cs
+D:\cutontheruler\cutontheruler\src\cutontheruler-infra\obj\Debug\net8.0\cutontheruler-infra.csproj.CoreCompileInputs.cache
+D:\cutontheruler\cutontheruler\src\cutontheruler-infra\obj\Debug\net8.0\cutontheruler-infra.sourcelink.json
+D:\cutontheruler\cutontheruler\src\cutontheruler-infra\obj\Debug\net8.0\cutontheruler-infra.dll
+D:\cutontheruler\cutontheruler\src\cutontheruler-infra\obj\Debug\net8.0\refint\cutontheruler-infra.dll
+D:\cutontheruler\cutontheruler\src\cutontheruler-infra\obj\Debug\net8.0\cutontheruler-infra.pdb
+D:\cutontheruler\cutontheruler\src\cutontheruler-infra\obj\Debug\net8.0\cutontheruler-infra.genruntimeconfig.cache
+D:\cutontheruler\cutontheruler\src\cutontheruler-infra\obj\Debug\net8.0\ref\cutontheruler-infra.dll
