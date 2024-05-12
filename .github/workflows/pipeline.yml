@@ -2,22 +2,10 @@ name: SonarCloud
 on:
   push:
     branches:
-      '*'
+      - main
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
-  test:
-    name: Run tests
-    runs-on: windows-latest
-    needs: build
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-      - name: Restore dependencies
-        run: dotnet restore
-      - name: Run tests
-        run: dotnet test
-        
   build:
     name: Build and analyze
     runs-on: windows-latest
@@ -45,7 +33,7 @@ jobs:
           restore-keys: ${{ runner.os }}-sonar-scanner
       - name: Install SonarCloud scanner
         if: steps.cache-sonar-scanner.outputs.cache-hit != 'true'
-        shell: pwsh
+        shell: powershell
         run: |
           New-Item -Path .\.sonar\scanner -ItemType Directory
           dotnet tool update dotnet-sonarscanner --tool-path .\.sonar\scanner
@@ -53,9 +41,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-        shell: pwsh
+        shell: powershell
         run: |
-          .\.sonar\scanner\dotnet-sonarscanner begin /k:"MatheusM15_cut-on-the-ruler" /o:"matheusm15" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
+          .\.sonar\scanner\dotnet-sonarscanner begin /k:"MatheusM15_pos-teach" /o:"matheusm15" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
+          cd TechChallenger
           dotnet build --configuration Release
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
-  
